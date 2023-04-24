@@ -1,0 +1,6 @@
+#include "bucketsort.h"
+#include "quicksort.h"
+#include "heapsort.h"
+#include "mergesort.h"
+#include "insertion.h"
+#include "selection.h"
